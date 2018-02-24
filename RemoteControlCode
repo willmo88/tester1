@@ -1,1 +1,2 @@
-{Pause TV} = http://192.168.1.88:7474/code/Pause%20off
+{Pause TV} = http://192.168.1.88:7474/code/Pause off
+{volume up} = http://192.168.1.88:7474/code/TV Volume on
